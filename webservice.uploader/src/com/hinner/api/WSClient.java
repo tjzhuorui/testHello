@@ -12,6 +12,8 @@ import com.hinner.ws.api.Service;
  *
  */
 public class WSClient {
+	//syso
+	
 	public static Logger logger = Logger.getLogger(WSClient.class);
 
 	// 测试模式
